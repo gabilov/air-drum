@@ -2,6 +2,8 @@
 
 **Turn your phone into a drumstick.** Swing it through the air, and the drum sound comes from the screen.
 
+**▶ [Try it live on your phone](https://gabilov.github.io/air-drum/)**
+
 Air Drum is a single-page web app that runs in your phone's browser and is played with your body. It uses the phone's motion sensors to turn a physical swing into a drum hit, so you play it as a gesture instead of by tapping the screen.
 
 ## How it works
@@ -19,7 +21,7 @@ Air Drum is a single-page web app that runs in your phone's browser and is playe
 | Looper | Record a loop, play it back, add a metronome, quantize, set the BPM |
 
 ## Try it
-1. Open `index.html` on a phone. It has to be served over HTTPS so the browser allows sensor access.
+1. Open the [live demo](https://gabilov.github.io/air-drum/) on your phone. It has to be served over HTTPS so the browser allows sensor access.
 2. On iPhone, turn off silent mode and tap **Allow** when it asks for motion access.
 3. Tap **Başla** (Start) and swing.
 
