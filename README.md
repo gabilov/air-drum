@@ -34,4 +34,4 @@ The interface is in Azerbaijani.
 ## Built with
 HTML · CSS · JavaScript · Web Audio API · Device Motion API
 
-Designed by Kanan Gabilov. The code was written with help from an AI assistant (Claude).
+Designed and built by Kanan Gabilov.
